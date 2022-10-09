@@ -1,0 +1,14 @@
+@use '_variables.scss';  // assumes file is named variables.scss';            
+
+
+title {
+    color: $secondary-font-color;
+}
+
+h2, h3 {
+    color: $primary-font-color;
+}
+
+h1 {
+    color: $h1-color;
+}
