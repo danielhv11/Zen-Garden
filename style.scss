@@ -1,4 +1,5 @@
-@use 'General-Scss/_atoms.scss';  // assumes file is named _atoms.scss
-@use 'General-Scss/_molecules.scss';
-@use 'General-Scss/_org.scss';  // can shorten the name if we like :)
+@import 'General-Scss/_atoms';  // assumes file is named _atoms.scss
+@import 'General-Scss/_molecules';
+@import 'General-Scss/_org';  // can shorten the name if we like :)
+@import 'General-Scss/_variables';
         
